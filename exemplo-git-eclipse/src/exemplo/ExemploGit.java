@@ -18,5 +18,6 @@ public class ExemploGit {
 	void metodoMary(){
 		System.out.println("Teste da mary");
 		//exemplo da mary
+		//exemplo do ze
 	}
 }
