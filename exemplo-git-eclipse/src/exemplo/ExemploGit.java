@@ -19,6 +19,8 @@ public class ExemploGit {
 		System.out.println("Teste da mary");
 		//exemplo da mary
 		//exemplo do ze
+		//exemplo do ze
 		//exemplo da mary 2
+
 	}
 }
