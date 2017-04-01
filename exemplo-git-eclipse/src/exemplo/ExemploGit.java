@@ -7,6 +7,7 @@ public class ExemploGit {
 		//alterado do github
 		//alterado do eclipse
 		//alterado pelo ze
+		//alterado pela maria
 	}
 	
 }
