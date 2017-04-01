@@ -10,4 +10,8 @@ public class ExemploGit {
 		//alterado pela maria
 	}
 	
+	
+	void metodoMary(){
+		System.out.println("Teste da mary");
+	}
 }
